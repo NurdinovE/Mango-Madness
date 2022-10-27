@@ -53,19 +53,6 @@ body{
 
 }
 
-.carousel {
-    padding: 100px 0;
-}
-.carousel__inner {
-    position: relative;
-    width: 750px;
-    margin: 0 auto;
-    display: flex;
-}
-.carousel__inner div img{
-    width: 800px;
-    height: 800px;
-}
 .footer{
     display: flex;
     justify-content: space-between;
