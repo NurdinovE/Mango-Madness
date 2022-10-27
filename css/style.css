@@ -1,14 +1,11 @@
 body{
     background: #F7F8F9
-
 }
 .container{
     max-width: 1200px;
     margin: 20px auto;
     padding: 0 15px;
 }
-
-
 .wrapper{
     margin-top: 20px;
     height: 130px;
@@ -20,14 +17,10 @@ body{
 }
 .menu__list{
     display: flex;
-
 }
 .header__burger{
     display: none;
 }
-
-
-
 .menu__list li{
     list-style-type: none;
     margin-left: 40px;
@@ -51,10 +44,53 @@ body{
 .info{
     margin: 110px 0;
 }
-
+.info__image{
+    margin: 0 auto;
+    text-align: center;
+}
 .info__content{
     width: 1200px;
+
+}
+
+.carousel {
+    padding: 100px 0;
+}
+.carousel__inner {
+    position: relative;
+    width: 750px;
     margin: 0 auto;
+    display: flex;
+}
+.carousel__inner div img{
+    width: 800px;
+    height: 800px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    font-family: "Teko";
+}
+.main__title{
+    text-align: center;
+    font-family: "Teko";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 100%;
+    color: #FFB742;
+}
+h2{
+    text-align: center;
+}
+.footer__inner{
+    width: 20%;
+}
+.footer__title{
+    width: 20%;
+}
+.footer__input{
+    width: 80px;
 }
 @media (max-width: 1200px) {
     .container{
@@ -71,10 +107,7 @@ body{
     .wrapper{
         height: 85px;
     }
-
-
 }
-
 @media (max-width: 992px) {
     .container {
         max-width: 750px;
@@ -96,17 +129,14 @@ body{
     .info{
         margin-top: 70px;
     }
-
-
 }
-
 @media (max-width: 767px) {
     .container {
         max-width: 576px;
         margin: 14px auto;
     }
     .info__content{
-        width: 575px;
+        width: 550px;
         margin: 0 auto;
     }
     .header__logo{
@@ -118,16 +148,21 @@ body{
     .header__link{
         font-size: 17px;
     }
+    .main__title{
+        font-size: 24px;
 
+    }
+    h2{
+        font-size: 20px;
+    }
 }
-
 @media (max-width: 576px) {
     .container{
         max-width: 365px;
         margin: 9px auto;
     }
     .info__content{
-        width: 365px;
+        width: 350px;
         margin: 0 auto;
     }
     .header__logo{
@@ -142,6 +177,17 @@ body{
     .menu__list li{
         margin-left: 20px;
     }
+    .footer__title{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .footer{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    br{
+        display: none;
+    }
 
 }
 @media (max-width: 356px) {
@@ -150,7 +196,7 @@ body{
         margin: 10px auto;
     }
     .info__content{
-        width: 220px;
+        width: 260px;
         margin: 0 auto;
     }
     .header__logo{
@@ -166,6 +212,22 @@ body{
     .menu__list li{
         margin-left: 10px;
     }
+    .title{
+        font-size: 10px;
+    }
+    .subtitle{
+        font-size: 8px;
+    }
+    .footer__input{
+        display: none;
+    }
+    .main__title{
+        font-size: 20px;
+    }
+    h2{
+        font-size: 18px;
+    }
+    br{
+        display: none;
+    }
 }
-
-

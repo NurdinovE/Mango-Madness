@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d1980c9-a2bb-4075-8d99-d14e35c56f86" name="Default Changelist" comment="" />
+    <list default="true" id="1d1980c9-a2bb-4075-8d99-d14e35c56f86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.maskedinput.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Mango madness.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Mango madness.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +21,20 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2FQMiwR2eRzNA4sZSUikNWAJo6j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../homework" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\IT-Run\Верстка\Mango madness\js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -42,11 +60,31 @@
       <updated>1664419984774</updated>
       <workItem from="1664419986118" duration="10995000" />
       <workItem from="1664438454408" duration="686000" />
-      <workItem from="1664850913066" duration="9261000" />
+      <workItem from="1664850913066" duration="11021000" />
+      <workItem from="1665024604509" duration="46000" />
+      <workItem from="1665025080924" duration="178000" />
+      <workItem from="1665044174514" duration="2159000" />
+      <workItem from="1665046602614" duration="6000" />
+      <workItem from="1665456864190" duration="147000" />
+      <workItem from="1666667918088" duration="1772000" />
+      <workItem from="1666670058345" duration="1307000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
